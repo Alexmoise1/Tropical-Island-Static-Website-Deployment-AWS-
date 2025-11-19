@@ -69,6 +69,7 @@ Public Read policy for S3 (GetObject)
 Secure access configuration
 
 📘 Skills Demonstrated
+
 ✔ Cloud Architecture
 
 Understanding how S3 + CloudFront work together to host static sites via global CDN.
